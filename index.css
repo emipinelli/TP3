@@ -1,0 +1,66 @@
+.apartado{
+
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.apartado2{
+
+    height: 100vh;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.nav{
+
+    position: fixed;
+    border: 1px solid black;
+    border-radius: 100%;
+    border-top-left-radius: 0;
+    padding: 20px;
+
+}
+
+.nav:hover{
+    
+    background-color: cadetblue;
+
+}
+
+.a{
+
+    text-decoration: none;
+    color: black;
+    
+}
+
+.texto-centrado{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.texto-centrado:active{
+
+    color: rgb(0, 255, 0);
+    letter-spacing: 5rem;
+    background-color: black;
+
+}
+
+.lista{
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    list-style-type: georgian;
+    
+}
